@@ -2,7 +2,7 @@
 
 This repository contains my work for the final project of the course [Introduction to Numerical Image Analysis](https://perso.telecom-paristech.fr/gousseau/MVA/) that I followed within the Master MVA-Mathematics Computer Vision and Learning at ENS-Paris Saclay.
 
-Our final was on the study of the following paper, from Deepak Pathak, Philipp Krähenbühl, Jeff Donahue, Trevor Darrell and Alexei A.Efros : 
+This project was a pair-work. We studied the following paper, from Deepak Pathak, Philipp Krähenbühl, Jeff Donahue, Trevor Darrell and Alexei A.Efros : 
 
 
 
