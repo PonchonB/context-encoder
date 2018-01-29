@@ -1,3 +1,11 @@
+#Numerical Image Analysis-Project
+
+This repository contains my work for the final project of the course [Introduction to Numerical Image Analysis](https://perso.telecom-paristech.fr/gousseau/MVA/) that I followed within the Master MVA-Mathematics Computer Vision and Learning at ENS-Paris Saclay.
+
+Our final was on the study of the following project: 
+
+
+
 ## Context Encoders: Feature Learning by Inpainting
 [Project Website](http://cs.berkeley.edu/~pathak/context_encoder/)<br/>
 RECENT: Checkout new [Imagenet Results](https://people.eecs.berkeley.edu/~pathak/context_encoder/#extraResults) !!
